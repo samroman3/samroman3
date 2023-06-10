@@ -18,7 +18,7 @@ Outside of work, I'm building:
 
 I'm diving into the world of Machine Learning and AI, experimenting with Python and TensorFlow. 🐍
 
-### 📚 What I'm reading 
+### 📚 Favorite Reads
 
 - "Three Body Problem" by Cixin Liu 🪐
 - "When We Cease to Understand the World" by Benjamin Labatut 🌎
