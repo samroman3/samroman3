@@ -1,14 +1,14 @@
 ## 📖 About Me
 
-- 🖥 Software Engineer at Zoetis Inc. / Performance Livestock Analytics.
+- 🖥 Mobile Software Engineer specializing in all things iOS and Apple ecosystem.
 - 🎓 Studied Graphic Design at Purchase College, State University of New York.
 - 🚀 Learned iOS Development at Pursuit, an intensive 10-month, Google-funded software engineering fellowship with a 9% acceptance rate (out of 1500+ applicants). The curriculum was designed by engineers from Meta, Yahoo, Artsy, and LinkedIn.
 
 ### 🔭 What I'm working on
 
-At Zoetis, I'm building robust and user-friendly iOS applications for the livestock industry. These tools help farmers maintain their cattle, organize feeding schedules, and gain insights into animal health for better decision making. 🐮
+At Zoetis, I built robust and user-friendly iOS solutions for the livestock industry. Tools that help farmers maintain their cattle, organize feeding schedules, and gain insights into animal health for better decision making. 🐮
 
-Outside of work, I'm building:
+Right now I'm building:
 
 - [Resonote](https://github.com/samroman3/resonote):  A social hub of living documents that allow live collaboration with anyone, anywhere. 📝
 
