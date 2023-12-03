@@ -6,7 +6,7 @@ At Zoetis, I built robust and user-friendly iOS solutions for the livestock indu
 
 ### 🌱 What I'm working on
 
-I'm diving into the world of Machine Learning and AI, experimenting with Pytorch and TensorFlow. Currently incorporating computer vision into my lightweight calorie tracking app. 
+I'm diving into the world of Machine Learning and AI, experimenting with Pytorch and TensorFlow. Currently incorporating computer vision into my lightweight calorie tracking app: [Eazeat](https://github.com/samroman3/eazeat). 
 
 ### 📫 How to reach me
 
